@@ -1,0 +1,18 @@
+local promp = script.parent
+local sound = script.parent.parent.sound
+
+function:(ExploExP) = ExP = create:instance.new(explosion)
+
+promp.connect:funtion.MouseButton1Click()
+  sound:play()
+  wait(1)
+  sound:play()
+  wait(1)
+  sound:play()
+  wait(1)
+  sound:play()
+  wait(1)
+  sound:play()
+  wait(1)
+  Call:function(ExploExP)
+end)
